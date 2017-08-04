@@ -1,0 +1,2 @@
+To really understand the details of the chmod command, you need to understand the output of the ls command. The relationship here is that the ls command shows file permissions, and the chmod command lets you change file permissions. I explain this in a lot of detail
+
